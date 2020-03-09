@@ -1,8 +1,8 @@
 Aguyon
 
-[![enter image description here](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=blue&logoColor=blue&style=for-the-badge&url=https://twitter.com/aguyonp)](https://twitter.com/aguyonp)
+[![](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=blue&logoColor=blue&style=for-the-badge&url=https://twitter.com/aguyonp)](https://twitter.com/aguyonp)
 
-[![enter image description here](https://img.shields.io/twitter/url?color=orange&label=Website&logo=blue&logoColor=blue&style=for-the-badge&url=https://aguyon.net)](https://aguyon.net)
+[![](https://img.shields.io/twitter/url?color=orange&label=Website&logo=blue&logoColor=blue&style=for-the-badge&url=https://aguyon.net)](https://aguyon.net)
 
 # Vagrant deploye GLPI instance on virtualbox
 ![Résultat de recherche d'images pour "vagrant"](https://www.morot.fr/wp-content/uploads/2019/01/vagrant-logo.png)
