@@ -31,6 +31,7 @@ Only one in the example
 
 Let Vagrant configure the VM. Once finished, Vagrant will display a message containing the connection information to GLPI (This may take some time depending on your connection speed).
 ![enter image description here](https://i.imgur.com/7Fdh8fu.png)
+
 The password is generated randomly.
 
 ## Configuration of GLPI
@@ -40,6 +41,7 @@ Go to the web page indicated by Vagrant (http://10.89.1.141) LAN IP
 Follow the configuration steps
 Once you have reached the database configuration, enter the information provided by Vagrant, as shown in the following scheme:
 ![enter image description here](https://i.imgur.com/xPFCU2U.png)
+
 Select this database:
 ![enter image description here](https://i.imgur.com/muay8yu.png)
 
