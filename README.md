@@ -1,6 +1,6 @@
 Aguyon
 
-[![](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=blue&logoColor=blue&style=for-the-badge&url=https://twitter.com/aguyonp)](https://twitter.com/aguyonp)
+[![](https://img.shields.io/badge/Twitter-aguyonp-blue)](https://twitter.com/aguyonp)
 
 [![](https://img.shields.io/twitter/url?color=orange&label=Website&logo=blue&logoColor=blue&style=for-the-badge&url=https://aguyon.net)](https://aguyon.net)
 
