@@ -6,6 +6,7 @@ Aguyon
 
 # Vagrant deploye GLPI instance on virtualbox
 ![Résultat de recherche d'images pour "vagrant"](https://www.morot.fr/wp-content/uploads/2019/01/vagrant-logo.png)
+
 This project makes it possible to deploy a virtualbox **Debian 10** virtual machine with a **GLPI** instance.
 The project uses **docker** and **docker-compose** technologies.
 
@@ -29,7 +30,8 @@ Only one in the example
 ![enter image description here](https://i.imgur.com/tR6NHhQ.png)
 
 Let Vagrant configure the VM. Once finished, Vagrant will display a message containing the connection information to GLPI (This may take some time depending on your connection speed).
-![enter image description here](https://i.imgur.com/7Fdh8fu.png)The password is generated randomly.
+![enter image description here](https://i.imgur.com/7Fdh8fu.png)
+The password is generated randomly.
 
 ## Configuration of GLPI
 
